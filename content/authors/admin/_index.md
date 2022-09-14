@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: 周子旭
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: 在某公司担任运营
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
+  - name: 某公司
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
