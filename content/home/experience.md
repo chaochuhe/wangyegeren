@@ -32,7 +32,7 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * 学习历史 地理 政治
+        * 学习文科
         * 学习传媒相关知识
 
   - title: Professor of Semiconductor Physics
