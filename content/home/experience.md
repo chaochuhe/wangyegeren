@@ -27,7 +27,7 @@ experience:
     company_url: ''
     company_logo: org-gc
     location: 河南
-    date_start: ''
+    date_start: '2021-01-01'
     date_end: ''
     description: |2-
         Responsibilities include:
