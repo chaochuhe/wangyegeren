@@ -37,7 +37,7 @@ content:
   coordinates:
     latitude: '37.4275'
     longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  directions: 等你找到我了我就告诉你我在哪
   office_hours:
     - '工作日早上9点~晚上7点'
   appointment_url: 'https://calendly.com'
