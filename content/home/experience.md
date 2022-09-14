@@ -40,7 +40,7 @@ experience:
     company_url: ''
     company_logo: org-x
     location: 河南
-    date_start: '2018-9-1'
+    date_start: '2018-09-01'
     date_end: '2022-6-30'
     description: 学习传媒相关专业知识
 
