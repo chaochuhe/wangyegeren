@@ -28,9 +28,9 @@ experience:
     company_logo: org-gc
     location: 河南
     date_start: '2015-09-01'
-    date_end: '2018-6-10'
+    date_end: '2018-06-30'
     description: |2-
-        Responsibilities include:
+        学习历程:
         
         * 学习文科
         * 学习传媒相关知识
@@ -41,7 +41,7 @@ experience:
     company_logo: org-x
     location: 河南
     date_start: '2018-9-1'
-    date_end: '2022-6-31'
+    date_end: '2022-6-30'
     description: 学习传媒相关专业知识
 
 design:
