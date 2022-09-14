@@ -14,7 +14,7 @@ organizations:
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-传媒:对拍照拍摄感兴趣,还有我喜欢的明星
+bio:对拍照拍摄感兴趣,还有我喜欢的明星
 
 # Interests to show in About widget
 兴趣:
