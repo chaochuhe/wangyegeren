@@ -14,26 +14,26 @@ organizations:
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+媒体：对拍照拍摄感兴趣，还有我喜欢的明星
 
 # Interests to show in About widget
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+兴趣:
+  - 拍照拍摄
+  - 看视频学习
+  - 喜欢的事物
 
 # Education to show in About widget
-education:
+教育:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: 全科
+      institution: 福建某初中
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: 文科加传媒方向
+      institution: 河南某高中
+      year: 2015
+    - course: 传媒专业
+      institution: 河南某高校
+      year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -70,8 +70,8 @@ email: ''
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+你好，我叫周子旭，欢迎你来到我的个人网页，在这里你可以了解一部分的我，甚至可以联系到我，我会一直关注这从这个网页来寻找我的人，可以和我进行合作
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+想要知道的更多的话，就来认识我吧。
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
