@@ -36,7 +36,7 @@ experience:
         * 学习传媒相关知识
 
   - title: 学生
-    company: 河南莫高校
+    company: 河南某高校
     company_url: ''
     company_logo: org-x
     location: 河南
