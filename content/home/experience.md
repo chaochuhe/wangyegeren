@@ -23,26 +23,26 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: 学生
-    company: GenCoin
+    company: 河南某高中
     company_url: ''
     company_logo: org-gc
     location: 河南
-    date_start: '2021-01-01'
-    date_end: ''
+    date_start: '2015-09-01'
+    date_end: '2018-6-10'
     description: |2-
         Responsibilities include:
         
         * 学习文科
         * 学习传媒相关知识
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: 学生
+    company: 河南莫高校
     company_url: ''
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: 河南
+    date_start: '2018-9-1'
+    date_end: '2022-6-31'
+    description: 学习传媒相关专业知识
 
 design:
   columns: '2'
