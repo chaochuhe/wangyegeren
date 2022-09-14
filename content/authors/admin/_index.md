@@ -14,16 +14,16 @@ organizations:
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 拍摄拍照,和一切自己喜欢的事物
 
 # Interests to show in About widget
-兴趣:
+interests:
   - 拍照拍摄
   - 看视频学习
   - 喜欢的事物
 
 # Education to show in About widget
-教育:
+education:
   courses:
     - course: 全科
       institution: 福建某初中
