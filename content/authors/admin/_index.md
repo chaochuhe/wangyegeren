@@ -14,7 +14,7 @@ organizations:
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-媒体：对拍照拍摄感兴趣，还有我喜欢的明星
+传媒:对拍照拍摄感兴趣，还有我喜欢的明星
 
 # Interests to show in About widget
 兴趣:
@@ -70,8 +70,8 @@ email: ''
 highlight_name: true
 ---
 
-你好，我叫周子旭，欢迎你来到我的个人网页，在这里你可以了解一部分的我，甚至可以联系到我，我会一直关注这从这个网页来寻找我的人，可以和我进行合作
+你好,我叫周子旭,欢迎你来到我的个人网页,在这里你可以了解一部分的我,甚至可以联系到我,我会一直关注这从这个网页来寻找我的人,可以和我进行合作
 
-想要知道的更多的话，就来认识我吧。
+想要知道的更多的话,就来认识我吧.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
