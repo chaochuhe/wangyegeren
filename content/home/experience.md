@@ -41,7 +41,7 @@ experience:
     company_logo: org-x
     location: 河南
     date_start: '2018-09-01'
-    date_end: '2022-6-30'
+    date_end: '2022-06-30'
     description: 学习传媒相关专业知识
 
 design:
